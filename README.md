@@ -20,3 +20,4 @@ Dự án này sử dụng ESP32 kết hợp với một quang trở (LDR) để 
 3. **Chọn cổng COM** tương ứng với ESP32.
 4. **Upload mã** lên ESP32.
 
+![image](https://github.com/user-attachments/assets/ec254ada-361c-431b-9698-33a8038401d6)
